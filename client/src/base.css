@@ -34,8 +34,12 @@
       @apply text-neutral-500 dark:text-neutral-200;
     }
   
-    .wauto {
+    /* .wauto {
       @apply w-full md:w-11/12 lg:w-10/12 xl:w-8/12 2xl:w-6/12 duration-300;
+    } */
+
+    .wauto {
+      @apply w-full duration-300;
     }
   
     .writeauto {
